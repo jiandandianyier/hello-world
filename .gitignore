@@ -1,0 +1,20 @@
+# Visual Studio C++ / Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.tlog
+*.pch
+*.idb
+*.ipch
+*.log
+
+# Visual Studio user files
+.vs/
+*.suo
+*.user
+*.vcxproj.user
